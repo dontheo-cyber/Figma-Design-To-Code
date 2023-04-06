@@ -24,6 +24,8 @@ export default {
         'secondary':'#131316',
         'tertiary':'#E5E5E5',
         'submain':'#56616B',
+        'greyText':'#31373D',
+        'greyBorder':'#EFF1F6',
       },
     },
     container: {
