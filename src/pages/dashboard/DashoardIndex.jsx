@@ -9,56 +9,6 @@ const DashoardIndex = () => {
         <Layout>
           <Greetings/>
           <GraphComponent/>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
-        <h3>DashoardIndex</h3>
         </Layout>
       </div>
   )
